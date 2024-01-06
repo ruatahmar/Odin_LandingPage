@@ -1,0 +1,26 @@
+
+.top{
+    display:flex;
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: #1F2937;
+    flex:1;
+}
+.logo{
+    font-size: 24px;
+    color: #F9FAF8
+}
+#main{
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+#one{
+    
+}
+/*.two{
+    flex-direction: row;
+}
+.intro.yoyo{
+    flex-direction: column;
+}*/
