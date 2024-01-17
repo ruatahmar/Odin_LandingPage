@@ -2,6 +2,7 @@
 body{
     margin:0;
     padding:0;
+    
 }
 .no1{
     color: #E5E7EB;
@@ -70,16 +71,18 @@ p{
     font-weight:800px ;
 }
 img{
+    margin-left: 20px;
     width:550px;
     height:300px;
 }
 #button{
     border-radius: 25px;
     display: flex;
-    width:80px;
+    width:100px;
     height:30px;
     background-color: rgb(53, 125, 149);
     align-items: center;
+    color:white;
     justify-content: center;
 }
 
@@ -144,4 +147,7 @@ img{
     justify-content: right;
     color:black;
     font-style: bold;
+}
+a:visited, a:hover, a:visited{
+    color:white;
 }
