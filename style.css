@@ -71,6 +71,7 @@ p{
     font-weight:800px ;
 }
 img{
+    display:flex;
     margin-left: 20px;
     width:550px;
     height:300px;
